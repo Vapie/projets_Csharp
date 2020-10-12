@@ -13,7 +13,7 @@ namespace exercice8
     {
         static void Main(string[] args)
         {
-            EventLog myLog = new EventLog();
+            //EventLog myLog = new EventLog();
            
             try
             {
@@ -47,10 +47,10 @@ namespace exercice8
             }
             catch
             {
-               
+
 
                 // Write an informational entry to the event log.
-                myLog.WriteEntry("ça marche bof en vrai");
+                //myLog.WriteEntry("ça marche bof en vrai");
             }
         }
     }
