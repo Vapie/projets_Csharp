@@ -1,0 +1,6 @@
+C:\Users\tapiev\Desktop\projets_C#\exercice8\exercice8\bin\Release\exercice8.exe.config
+C:\Users\tapiev\Desktop\projets_C#\exercice8\exercice8\bin\Release\exercice8.exe
+C:\Users\tapiev\Desktop\projets_C#\exercice8\exercice8\bin\Release\exercice8.pdb
+C:\Users\tapiev\Desktop\projets_C#\exercice8\exercice8\obj\Release\exercice8.csproj.CoreCompileInputs.cache
+C:\Users\tapiev\Desktop\projets_C#\exercice8\exercice8\obj\Release\exercice8.exe
+C:\Users\tapiev\Desktop\projets_C#\exercice8\exercice8\obj\Release\exercice8.pdb

@@ -1,0 +1,7 @@
+C:\Users\tapiev\Desktop\projets_C#\exercice8\exercice8\bin\Debug\exercice8.exe.config
+C:\Users\tapiev\Desktop\projets_C#\exercice8\exercice8\bin\Debug\exercice8.exe
+C:\Users\tapiev\Desktop\projets_C#\exercice8\exercice8\bin\Debug\exercice8.pdb
+C:\Users\tapiev\Desktop\projets_C#\exercice8\exercice8\obj\Debug\exercice8.csprojAssemblyReference.cache
+C:\Users\tapiev\Desktop\projets_C#\exercice8\exercice8\obj\Debug\exercice8.csproj.CoreCompileInputs.cache
+C:\Users\tapiev\Desktop\projets_C#\exercice8\exercice8\obj\Debug\exercice8.exe
+C:\Users\tapiev\Desktop\projets_C#\exercice8\exercice8\obj\Debug\exercice8.pdb
