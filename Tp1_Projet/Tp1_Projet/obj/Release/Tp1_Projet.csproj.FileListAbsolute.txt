@@ -1,0 +1,6 @@
+C:\Users\tapiev\Desktop\projets_C#\Tp1_Projet\Tp1_Projet\bin\Release\Tp1_Projet.exe.config
+C:\Users\tapiev\Desktop\projets_C#\Tp1_Projet\Tp1_Projet\bin\Release\Tp1_Projet.exe
+C:\Users\tapiev\Desktop\projets_C#\Tp1_Projet\Tp1_Projet\bin\Release\Tp1_Projet.pdb
+C:\Users\tapiev\Desktop\projets_C#\Tp1_Projet\Tp1_Projet\obj\Release\Tp1_Projet.csproj.CoreCompileInputs.cache
+C:\Users\tapiev\Desktop\projets_C#\Tp1_Projet\Tp1_Projet\obj\Release\Tp1_Projet.exe
+C:\Users\tapiev\Desktop\projets_C#\Tp1_Projet\Tp1_Projet\obj\Release\Tp1_Projet.pdb
